@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="./img/logo.png" alt="Logo" width="80" height="80">
+    <img src="./docs/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center"><strong>Study Stretching With Me</strong></h2>
@@ -22,7 +22,7 @@
     </div>
     <br/>
     <a href="https://www.youtube.com/watch?v=VHVgtXMp3OI">
-      <img src="./img/광고메세지.png"/>
+      <img src="./docs/img/광고메세지.png"/>
     </a>
     <h5 style="font-weight: bold;">↑ 사진을 클릭하면 UCC를 볼 수 있어요!</h5>
   </p>
@@ -97,35 +97,35 @@
 # 3. 기능 소개
 
 ### 회원가입 & 로그인
-![기능소개-01](./img/기능01_LOGIN.png)
-![기능소개-02](./img/기능02_SIGNUP.png)
-![기능소개-03](./img/기능03_SIGNNAME.png)
+![기능소개-01](./docs/img/기능01_LOGIN.png)
+![기능소개-02](./docs/img/기능02_SIGNUP.png)
+![기능소개-03](./docs/img/기능03_SIGNNAME.png)
 ### 마이 페이지
-![기능소개-04](./img/기능04_MYPAGE1.png)
-![기능소개-05](./img/기능05_MYPAGE2.png)
-![기능소개-06](./img/기능06_MYPAGE3.png)
-![기능소개-07](./img/기능07_MYPAGE4.png)
+![기능소개-04](./docs/img/기능04_MYPAGE1.png)
+![기능소개-05](./docs/img/기능05_MYPAGE2.png)
+![기능소개-06](./docs/img/기능06_MYPAGE3.png)
+![기능소개-07](./docs/img/기능07_MYPAGE4.png)
 ### 프로필 편집
-![기능소개-08](./img/기능08_ProfileEdit.png)
+![기능소개-08](./docs/img/기능08_ProfileEdit.png)
 ### 메인 페이지
-![기능소개-09](./img/기능09_MAINPAGE1.png)
-![기능소개-10](./img/기능10_MAINPAGE2.png)
+![기능소개-09](./docs/img/기능09_MAINPAGE1.png)
+![기능소개-10](./docs/img/기능10_MAINPAGE2.png)
 ### 스터디룸 생성
-![기능소개-11](./img/기능11_CREATEROOM.png)
+![기능소개-11](./docs/img/기능11_CREATEROOM.png)
 ### 스터디룸 편집
-![기능소개-12](./img/기능12_ROOMEDIT.png)
+![기능소개-12](./docs/img/기능12_ROOMEDIT.png)
 ### 라이브룸
-![기능소개-13](./img/기능13_LIVEROOM1.png)
-![기능소개-14](./img/기능14_LIVEROOM2.png)
+![기능소개-13](./docs/img/기능13_LIVEROOM1.png)
+![기능소개-14](./docs/img/기능14_LIVEROOM2.png)
 ### 스트레칭
-![기능소개-15](./img/기능15_STRECH.png)
+![기능소개-15](./docs/img/기능15_STRECH.png)
 
 
 <div id="4"></div>
 
 # 4. 시연 영상
 
-[![LOGO](./img/SSWM.png)](https://youtu.be/uivS5nPWuRQ)
+[![LOGO](./docs/img/SSWM.png)](https://youtu.be/uivS5nPWuRQ)
 
 
 
@@ -169,7 +169,7 @@ Teachable Machine은 구글에서 만든 웹기반 노코드 인공지능 학습
 # 6. 프로젝트 일정 및 산출물
 
 ## 프로젝트 일정
-![개발일정](./img/개발일정.JPG)
+![개발일정](./docs/img/개발일정.JPG)
 
 ## 프로젝트 진행
 ### 1. Git flow
@@ -186,15 +186,15 @@ front 와 back 으로 나누어 `faature`의 하위 브랜치를 사용하였으
 
 ## 프로젝트 산출물
 ### 1. Figma
-![피그마](./img/figma.JPG)
+![피그마](./docs/img/figma.JPG)
 <br>
 
 ### 2. ERD
-![erd](./img/ERD.png)
+![erd](./docs/img/ERD.png)
 <br>
 
 ### 3. API 문서
-![API](./img/API명세.JPG)
+![API](./docs/img/API명세.JPG)
 
 <div id="7"></div>
 
