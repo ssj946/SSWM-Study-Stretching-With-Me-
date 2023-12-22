@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "NanumSquareNeo";
+  src: url("./assets/fonts/NanumSquareNeoOTF-Rg.woff") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LINESeedKR-Bd';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cafe24Ohsquareair';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2202@1.0/Cafe24Ohsquareair.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-family: "NanumSquareNeo";
+
+  -ms-overflow-style: none; /* IE, Edge */
+  scrollbar-width: none; /* Firefox */
+
+}
+::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
